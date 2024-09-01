@@ -45,8 +45,23 @@ To get started, clone this repository to your local machine:
 git clone https://github.com/yourusername/COVID19-Mental-Health-Analysis.git
 cd COVID19-Mental-Health-Analysis
 ```
+2️⃣ Running the Python Script Locally
+Install Dependencies:
 
-2️⃣ Running the .ipynb File Locally
+- Ensure you have Python 3.10.12 or above. Install the necessary packages:
+
+```bash
+pip install numpy pandas scipy matplotlib seaborn torch transformers datasets hdbscan umap-learn bertopic
+```
+- Run the Python Script:
+
+- You can run the Python script directly from the command line:
+
+```bash
+python mental_health_analysis_pipeline.py
+```
+
+3️⃣ Running the .ipynb File Locally
 - Install Jupyter Notebook 📓:
 
 If you don’t have Jupyter Notebook installed:
@@ -64,7 +79,7 @@ Open the Notebook 📂:
 
 Navigate to the Mental_Health_Analysis_Pipeline.ipynb file and open it.
 
-3️⃣ Running on Google Colab
+4️⃣ Running on Google Colab
 Open Google Colab 🌐:
 
 Head over to Google Colab.

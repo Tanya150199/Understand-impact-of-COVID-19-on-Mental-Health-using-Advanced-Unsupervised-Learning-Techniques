@@ -47,7 +47,7 @@ cd COVID19-Mental-Health-Analysis
 ```
 
 2️⃣ Running the .ipynb File Locally
-Install Jupyter Notebook 📓:
+- Install Jupyter Notebook 📓:
 
 If you don’t have Jupyter Notebook installed:
 ```bash

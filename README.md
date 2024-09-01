@@ -71,12 +71,19 @@ Head over to Google Colab.
 
 Upload the Notebook 📤:
 
-Click on File > Upload Notebook.
-Upload Mental_Health_Analysis_Pipeline.ipynb.
-Install Required Libraries ⚙️
+- Click on File > Upload Notebook.
+- Upload Mental_Health_Analysis_Pipeline.ipynb.
+- Install Required Libraries ⚙️
 
 In the first cell, install the necessary packages.
 
-Run the Notebook ▶️:
+- Run the Notebook ▶️:
 
 Execute each cell to run the entire pipeline.
+
+### Conclusion
+
+----
+
+This repository offers a comprehensive framework for analyzing mental health discussions during the COVID-19 pandemic using advanced machine learning techniques. By integrating traditional and transformer-based topic modeling methods along with robust clustering and temporal analysis, this project provides valuable insights into the evolving nature of public discourse on mental health. The tools and methodologies shared here can be adapted and extended to various other research areas, offering a solid foundation for future studies in social media analytics and mental health research.
+

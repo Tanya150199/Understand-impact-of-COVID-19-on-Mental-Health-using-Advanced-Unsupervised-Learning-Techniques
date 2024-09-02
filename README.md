@@ -42,8 +42,8 @@ Welcome to the COVID-19 Mental Health Analysis repository! This project provides
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/COVID19-Mental-Health-Analysis.git
-cd COVID19-Mental-Health-Analysis
+git clone https://github.com/Tanya150199/Understand-impact-of-COVID-19-on-Mental-Health-using-Advanced-Unsupervised-Learning-Techniques.git
+cd Understand-impact-of-COVID-19-on-Mental-Health-using-Advanced-Unsupervised-Learning-Techniques
 ```
 2️⃣ Running the Python Script Locally
 Install Dependencies:
